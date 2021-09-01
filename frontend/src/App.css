@@ -1,0 +1,30 @@
+.container {
+  padding-top: 30px;
+  width: 500px;
+  margin: auto;
+}
+
+.input {
+  padding: 5px 15px;
+  width: 500px;
+}
+
+.module-list {
+  margin-top: 30px;
+
+}
+
+.module {
+  list-style: none;
+  margin: 10px 0;
+  padding: 10px;
+  background: #eee;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.module-name {
+  color: red;
+  margin-right: 20px;
+}
